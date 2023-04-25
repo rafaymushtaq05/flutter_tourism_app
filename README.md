@@ -9,6 +9,29 @@ username: admin
 
 password: admin 
 
+Add Tour Guide:
+
+Input Fields and Their Examples:
+Title (Name of Place): SKARDU
+
+Location (where the place is located): skardu, Pakistan
+
+Price (cost of tour): 25000 (you can change it into any currency in code)
+
+Duration: 5 (it means 4 nights and 5 days)
+
+Date: (we restricted the user only date will select when the tour will held, you have to enter the dates just like that [1,3,5] comma will split the date. 1 for Monday, 2 for Tuesday, 3 for Wednesday, 4 for Thursday, 5 for Friday, 6 for Saturday, 7 for Sunday)
+
+Famous Spots: (if you want to add multiple spots then add comma after one just like that [spot1,spot2,spot3].
+
+Hotels & Resturants: (if you want to add multiple hotels then add comma after one just like that [hotel1,hotel2,hotel3].
+
+ImageUrl: (images of place or, if you want to add multiple url then add comma after one ).
+
+Area: it is radio you can change it in the code. 
+
+
+
 Screen Shots: 
 
 Login/Signup/Reset Password Screens:
